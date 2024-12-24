@@ -1,8 +1,8 @@
 import { useContext } from "react";
-import { TransactionContext } from "../contexts/TransactionsContext";
+import { TransactionsContext } from "../contexts/TransactionsContext";
 
 export const useSummary = () => {
-  const { transactions } = useContext(TransactionContext);
+  const { transactions } = useContext(TransactionsContext);
 
   const summary = transactions.reduce(
     (acc, transaction) => {
