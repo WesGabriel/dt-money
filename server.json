@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1941,
       "createdAt": "2024-12-17T14:24:28.199Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2024-12-26T14:02:18.515Z",
+      "id": 4
+    },
+    {
+      "description": "Almoço",
+      "price": 55,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-26T14:18:15.259Z",
+      "id": 5
+    },
+    {
+      "description": "Iorgute",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-26T15:29:02.740Z",
+      "id": 6
     }
   ]
 }
